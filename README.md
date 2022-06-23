@@ -7,14 +7,22 @@ This mod aims to mount the orbiter V2.0 extruder to the stealthburner assembly. 
 In addition, it also includes a canbus toolhead mount (EBB36 or SHT-36 board). If you would instead prefer to use a cable chain, spacelab_2021 has developed a cable chain mount that attaches to the back of the orbiter motor here: https://www.teamfdm.com/files/file/485-orbiter-2-clockwork-beta/
 
 # Gallery
+<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/175235852-639f6085-0307-48b9-b661-db9fc88dab96.png">
+
+
+<img width="269" alt="Screen Shot 2022-06-23 at 6 24 30 PM" src="https://user-images.githubusercontent.com/12782053/175235903-8281606f-3422-4d9e-89af-2d858c587f97.png">
+
+
+<img width="832" alt="Screen Shot 2022-06-23 at 6 24 35 PM" src="https://user-images.githubusercontent.com/12782053/175235972-42aaa4e3-cacb-48ac-af07-f9b71dd27c3c.png">
+
+
+<img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/175235991-af587cd0-a2b5-4694-8a7a-3bd9b6be72e8.png">
 
 # Development Roadmap
 1)[COMPLETE] Initial release!
 2)Add cable shroud.
-3)Incorporate 3010 blower into cable shroud.
+3)Incorporate fan into cable shroud (cooling canbus toolhead stepper).
 4)Design version of orbiter mount with cable chain attachment.
-
-
 
 
 # Installation
