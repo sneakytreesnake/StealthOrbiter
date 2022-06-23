@@ -17,8 +17,11 @@ In addition, it also includes a canbus toolhead mount (EBB36 or SHT-36 board). I
 
 # Development Roadmap
 1)[COMPLETE] Initial release!
+
 2)Add cable shroud.
+
 3)Incorporate fan into cable shroud (cooling canbus toolhead stepper).
+
 4)Design version of orbiter mount with cable chain attachment.
 
 
