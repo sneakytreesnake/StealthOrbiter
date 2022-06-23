@@ -10,9 +10,6 @@ In addition, it also includes a canbus toolhead mount (EBB36 or SHT-36 board). I
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/175235852-639f6085-0307-48b9-b661-db9fc88dab96.png">
 
 
-<img width="269" alt="Screen Shot 2022-06-23 at 6 24 30 PM" src="https://user-images.githubusercontent.com/12782053/175235903-8281606f-3422-4d9e-89af-2d858c587f97.png">
-
-
 <img width="832" alt="Screen Shot 2022-06-23 at 6 24 35 PM" src="https://user-images.githubusercontent.com/12782053/175235972-42aaa4e3-cacb-48ac-af07-f9b71dd27c3c.png">
 
 
