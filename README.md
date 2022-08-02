@@ -1,5 +1,5 @@
 # StealthOrbiter
-This mod aims to mount the orbiter V2.0 extruder to the stealthburner assembly. In addition, it incorporates the Orbiter filament sensor to enable support for the ERCF.
+This mod aims to mount the orbiter V2.0 extruder to the stealthburner assembly. In addition, it incorporates the Orbiter filament sensor to enable support for the ERCF. The ERCF scripts have been (crudely!) modified to work with the toolhead sensor mounted before the extruder gears.
 
 In addition, it also ~~includes a canbus toolhead mount (BTT EBB36 board for now)~~. This design is obsolete as it cannot be used for input-shaper. Instead use other designs created by the community such as [here.](https://github.com/KayosMaker/CANboard_Mounts)
 
