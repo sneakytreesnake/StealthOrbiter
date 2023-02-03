@@ -1,11 +1,27 @@
 # StealthOrbiter
-This mod aims to mount the orbiter V2.0 extruder to the stealthburner assembly. In addition, it incorporates the Orbiter filament sensor to enable support for the ERCF. The ERCF scripts have been (crudely!) modified to work with the toolhead sensor mounted before the extruder gears.
+This mod aims to mount the orbiter V2.0 extruder to the stealthburner & [crowncooler](https://github.com/sneakytreesnake/CrownCooler) assembly. 
 
-In addition, it also ~~includes a canbus toolhead mount (BTT EBB36 board for now)~~. This design is obsolete as it cannot be used for input-shaper. Instead use other designs created by the community such as [here.](https://github.com/KayosMaker/CANboard_Mounts)
+# Features
+- It is fully compatible with the rest of the stealthburner system of hot ends & shrouds. A slightly modified (and optional!) version of the stealthburner fan shroud has been included to allow access to the orbiter filament lever.
+- Compatible with the [Crown Cooler system.](https://github.com/sneakytreesnake/CrownCooler)
+- Has a straight filament path. 
+- Has an integrated filament sensor beneath the extruder.
+- Supports ERCF.
+- Works with cable chains or canbus boards via compatible community mods.
+- Hinge section to allow support for a hinged shroud.
 
-If you would instead prefer to use a cable chain, spacelab_2021 has developed a cable chain mount that attaches to the back of the orbiter motor here: https://www.teamfdm.com/files/file/485-orbiter-2-clockwork-beta/
 
-# Gallery
+# Gallery!
+
+Installed onto a standard crowncooler assembly:
+
+<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578660-d8e4ac0d-2cbb-4c1b-b6e5-2c9336beb938.jpeg">
+
+<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578088-e4b5b4ef-1625-42d9-b88d-be7c726228cf.png">
+
+
+Installed onto a standard stealthburner assembly:
+
 <img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/175235852-639f6085-0307-48b9-b661-db9fc88dab96.png">
 
 
@@ -17,15 +33,21 @@ If you would instead prefer to use a cable chain, spacelab_2021 has developed a 
 # Development Roadmap
 1)[COMPLETE] Initial release!
 
-2)Add cable shroud.
+2)[COMPELTE] Add ERCF filament sensor
 
-3)Incorporate fan into cable shroud (cooling canbus toolhead stepper).
-
-4)Design version of orbiter mount with cable chain attachment.
+3) If there is sufficient demand, I will design a shroud that aesthetically covers the extruder. A hinge has already been designed into the mount in anticipation. 
 
 
 # Installation
-Instructions coming soon?
+1) Print orbiter mount. Though optional, I recommend printing the stealthburner fanshroud.
+2) Decide wiring method. Print associated parts
+
+[Canbus Boards](https://github.com/KayosMaker/CANboard_Mounts)
+
+[Cable Chain](https://www.teamfdm.com/files/file/485-orbiter-2-clockwork-beta/)
+
+3) If you are using the filament sensor feature, add 5mm ball bearing and install Omron D2FL endstop switch using self tapping screws. The ball bearing should drop freely into the hole with no friction. Wire this switch as a standard filament switch.
+
 
 #Acknowledgments
 - spacelab_2021, for providing the starting point I used in developing this mod
