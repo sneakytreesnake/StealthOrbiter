@@ -31,9 +31,9 @@ Installed onto a standard stealthburner assembly:
 <img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/175235991-af587cd0-a2b5-4694-8a7a-3bd9b6be72e8.png">
 
 # Development Roadmap
-1)[COMPLETE] Initial release!
+1) [COMPLETE] Initial release!
 
-2)[COMPELTE] Add ERCF filament sensor
+2) [COMPELTE] Add ERCF filament sensor
 
 3) If there is sufficient demand, I will design a shroud that aesthetically covers the extruder. A hinge has already been designed into the mount in anticipation. 
 
