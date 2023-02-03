@@ -45,8 +45,8 @@ Installed onto a standard stealthburner assembly:
 [Canbus Boards](https://github.com/KayosMaker/CANboard_Mounts)
 
 [Cable Chain](https://www.teamfdm.com/files/file/485-orbiter-2-clockwork-beta/)
-
-3) If you are using the filament sensor feature, add 5mm ball bearing and install Omron D2FL endstop switch using self tapping screws. The ball bearing should drop freely into the hole with no friction. Wire this switch as a standard filament switch.
+3) Print the mount with the front face on the bed (so the hold for the ball bearing is printed vertically). Use standard Voron print settings.
+4) If you are using the filament sensor feature, add 5mm ball bearing and install Omron D2FL endstop switch using self tapping screws. The ball bearing should drop freely into the hole with no friction. Wire this switch as a standard filament switch.
 
 
 #Acknowledgments
