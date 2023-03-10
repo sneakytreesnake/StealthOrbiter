@@ -30,6 +30,20 @@ Installed onto a standard stealthburner assembly:
 
 <img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/175235991-af587cd0-a2b5-4694-8a7a-3bd9b6be72e8.png">
 
+Filament path and design:
+
+
+<img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/216584788-3b26bd3a-42d3-4c24-a112-3d7fa7cbf35e.png">
+
+<img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/216584854-cdd54845-505c-4beb-8d27-d2f70cbc70f3.png">
+
+<img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/216584861-3ea8045e-b1ba-4026-b1cf-616be6b1c0ef.png">
+
+<img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/216584873-6afd6aa8-d75a-4db6-a823-0fa14b1ef3f6.png">
+
+
+
+
 # Development Roadmap
 1) [COMPLETE] Initial release!
 
@@ -46,8 +60,14 @@ Installed onto a standard stealthburner assembly:
 
 [Cable Chain](https://www.teamfdm.com/files/file/485-orbiter-2-clockwork-beta/)
 
-3) If you are using the filament sensor feature, add 5mm ball bearing and install Omron D2FL endstop switch using self tapping screws. The ball bearing should drop freely into the hole with no friction. Wire this switch as a standard filament switch.
+3) Print the mount with the front face on the bed (so the hold for the ball bearing is printed vertically). Use standard Voron print settings.
+
+4) If you are using the filament sensor feature, add 6mm ball bearing and install Omron D2FL endstop switch using self tapping screws. The ball bearing should drop freely into the hole with no friction. Wire this switch as a standard filament switch.
+
+# BOM
+- 6mm stainless steel ball bearing
+- Omron D2FL microswitch
 
 
-#Acknowledgments
+# Acknowledgments
 - spacelab_2021, for providing the starting point I used in developing this mod
