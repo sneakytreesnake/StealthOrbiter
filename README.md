@@ -1,5 +1,7 @@
 # StealthOrbiter
-This mod aims to mount the orbiter V2.0 extruder to the stealthburner & [crowncooler](https://github.com/sneakytreesnake/CrownCooler) assembly. 
+This mod aims to mount the orbiter V2.0 extruder to the stealthburner & [crowncooler](https://github.com/sneakytreesnake/CrownCooler) assembly.
+
+<img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/175235852-639f6085-0307-48b9-b661-db9fc88dab96.png">
 
 # Features
 - It is fully compatible with the rest of the stealthburner system of hot ends & shrouds. A slightly modified (and optional!) version of the stealthburner fan shroud has been included to allow access to the orbiter filament lever.
@@ -10,15 +12,12 @@ This mod aims to mount the orbiter V2.0 extruder to the stealthburner & [crownco
 - Works with cable chains or canbus boards via compatible community mods.
 - Hinge section to allow support for a hinged shroud.
 
+There are three optional versions to choose from:
+- A filament sensor located between the orbiter and the hot end, for use with the ERCF (note that the sensorless branch of the ERCF software no longer requires a sensor)
+- A mount for a PG7 cable gland, for using umbilical cords
+
 
 # Gallery!
-
-Installed onto a standard crowncooler assembly:
-
-<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578660-d8e4ac0d-2cbb-4c1b-b6e5-2c9336beb938.jpeg">
-
-<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578088-e4b5b4ef-1625-42d9-b88d-be7c726228cf.png">
-
 
 Installed onto a standard stealthburner assembly:
 
@@ -29,6 +28,15 @@ Installed onto a standard stealthburner assembly:
 
 
 <img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/175235991-af587cd0-a2b5-4694-8a7a-3bd9b6be72e8.png">
+
+Installed onto a standard crowncooler assembly:
+
+<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578660-d8e4ac0d-2cbb-4c1b-b6e5-2c9336beb938.jpeg">
+
+<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578088-e4b5b4ef-1625-42d9-b88d-be7c726228cf.png">
+
+
+
 
 Filament path and design:
 
