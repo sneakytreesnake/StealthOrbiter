@@ -1,5 +1,5 @@
 # StealthOrbiter
-This mod aims to mount the orbiter V2.0 extruder to the stealthburner & [crowncooler](https://github.com/sneakytreesnake/CrownCooler) assembly.
+This mod aims to mount the Orbiter V2.0 extruder to the Voron Stealthburner & [crowncooler](https://github.com/sneakytreesnake/CrownCooler) assembly.
 
 <img width="400" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/175235852-639f6085-0307-48b9-b661-db9fc88dab96.png">
 
@@ -7,12 +7,12 @@ This mod aims to mount the orbiter V2.0 extruder to the stealthburner & [crownco
 - It is fully compatible with the rest of the stealthburner system of hot ends & shrouds. A slightly modified (and optional!) version of the stealthburner fan shroud has been included to allow access to the orbiter filament lever.
 - Compatible with the [Crown Cooler system.](https://github.com/sneakytreesnake/CrownCooler)
 - Has a straight filament path. 
-- Has an integrated filament sensor beneath the extruder.
-- Supports ERCF.
-- Works with cable chains or canbus boards via compatible community mods.
-- This mount does not put a shroud over the orbiter - however, it has a hinge to mount a shroud onto if you wish to design your own.
+- Has an integrated filament sensor beneath the extruder for ERCF. Note that a filament sensor is not explicitly required anymore, but has been kept for legacy reasons.
+- Works with cable chains or canbus boards
+- Has a hinge feature integrated into the mount, to attach an aesthetic stealthburner shroud.
 
 There are three optional versions to choose from:
+- Standard - just a basic orbiter V2.0 mount
 - A filament sensor located between the orbiter and the hot end, for use with the ERCF (note that the sensorless branch of the ERCF software no longer requires a sensor)
 - A mount for a PG7 cable gland, for using umbilical cords
 
