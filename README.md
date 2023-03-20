@@ -10,7 +10,7 @@ This mod aims to mount the orbiter V2.0 extruder to the stealthburner & [crownco
 - Has an integrated filament sensor beneath the extruder.
 - Supports ERCF.
 - Works with cable chains or canbus boards via compatible community mods.
-- Hinge section to allow support for a hinged shroud.
+- This mount does not put a shroud over the orbiter - however, it has a hinge to mount a shroud onto if you wish to design your own.
 
 There are three optional versions to choose from:
 - A filament sensor located between the orbiter and the hot end, for use with the ERCF (note that the sensorless branch of the ERCF software no longer requires a sensor)
