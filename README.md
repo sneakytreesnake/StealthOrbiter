@@ -29,16 +29,8 @@ Installed onto a standard stealthburner assembly:
 
 <img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/175235991-af587cd0-a2b5-4694-8a7a-3bd9b6be72e8.png">
 
-Installed onto a standard crowncooler assembly:
 
-<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578660-d8e4ac0d-2cbb-4c1b-b6e5-2c9336beb938.jpeg">
-
-<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="https://user-images.githubusercontent.com/12782053/216578088-e4b5b4ef-1625-42d9-b88d-be7c726228cf.png">
-
-
-
-
-Filament path and design:
+Filament path and design (for the filament sensor version):
 
 
 <img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/216584788-3b26bd3a-42d3-4c24-a112-3d7fa7cbf35e.png">
@@ -50,14 +42,12 @@ Filament path and design:
 <img width="568" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/216584873-6afd6aa8-d75a-4db6-a823-0fa14b1ef3f6.png">
 
 
-
-
 # Development Roadmap
 1) [COMPLETE] Initial release!
 
-2) [COMPELTE] Add ERCF filament sensor
+2) [COMPELTE] Add ERCF filament sensor version
 
-3) If there is sufficient demand, I will design a shroud that aesthetically covers the extruder. A hinge has already been designed into the mount in anticipation. 
+3) [COMPLETE] Add PG7 cable gland mount version
 
 
 # Installation
