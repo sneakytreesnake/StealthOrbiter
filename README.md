@@ -47,8 +47,7 @@ Note: Filament sensors are no longer required for ERCF - consider using the stan
 
 # Installation & BOM
  
-[nstructions are here.](https://github.com/sneakytreesnake/StealthOrbiter/tree/main/STL)
-
+ [Instructions are here.](https://github.com/sneakytreesnake/StealthOrbiter/tree/main/STL)
 
 
 # Acknowledgments
