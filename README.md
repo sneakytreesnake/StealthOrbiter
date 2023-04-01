@@ -42,7 +42,7 @@ Note: Filament sensors are no longer required for ERCF - consider using the stan
 1) [COMPLETE] Initial release!
 2) [COMPELTE] Add ERCF filament sensor version
 3) [COMPLETE] Add PG7 cable gland mount version
-4) [In progress] Assembly instructionons
+4) [In progress] Assembly instructions
 
 
 # Installation & BOM
