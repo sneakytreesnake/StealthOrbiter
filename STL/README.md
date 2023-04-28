@@ -1,5 +1,9 @@
 # Instructions
 
+## Printing Orientation
+
+The printing orientation is already set in the STL. Just import and print!
+
 ## Heatset Locations
 
 ### Standard Mount
