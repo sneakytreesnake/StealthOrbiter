@@ -31,7 +31,14 @@ There is a variation of the standard mount to incorporate a filament sensor belo
 
 ## Filament sensor (for the filament sensor version):
 
-Note: Filament sensors are no longer required for ERCF - consider using the standard mount instead.
+There are a few inherent issues with the sensored mount so I do not recommend them. I highly recommend using the sensorless mounts instead, along with the Happy Hare ERCF software. 
+
+If that answer doesn't satisfy you, there are a number of issues with the sensored mounts:
+- requires supports
+- sensor breaks the PTFE tube into two
+- needs a pretty well calibrated printer to get the tolerance on the ball bearing hole right
+- is actually LESS reliable than the sensorless version, as filament shavings from the extruder can work its way down into the ball bearing cavity, which jams it open
+- eventually the filament rubbing on the hole around the ball bearing starts to wear through it and enlarge it
 
 <img width="600" alt="Screen Shot 2022-06-23 at 6 24 07 PM" src="https://user-images.githubusercontent.com/12782053/216584788-3b26bd3a-42d3-4c24-a112-3d7fa7cbf35e.png">
 
