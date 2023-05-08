@@ -49,7 +49,7 @@ If that answer doesn't satisfy you, there are a number of issues with the sensor
 1) [COMPLETE] Initial release!
 2) [COMPELTE] Add ERCF filament sensor version
 3) [COMPLETE] Add PG7 cable gland mount version
-4) [In progress] Assembly instructions
+4) [COMPLETE] Assembly instructions
 
 
 # Installation & BOM
